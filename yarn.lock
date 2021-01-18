@@ -1201,11 +1201,11 @@
     events "^3.2.0"
     uberproto "^2.0.6"
 
-"@feathersjs/socketio-client@4.5.10":
-  version "4.5.10"
-  resolved "https://registry.yarnpkg.com/@feathersjs/socketio-client/-/socketio-client-4.5.10.tgz#2212f5041550b71f75cd82f89d5a3c777f79b142"
+"@feathersjs/socketio-client@4.5.11":
+  version "4.5.11"
+  resolved "https://registry.yarnpkg.com/@feathersjs/socketio-client/-/socketio-client-4.5.11.tgz#b25287e0e69383b61f67bb18de610ce4d03e70fe"
   dependencies:
-    "@feathersjs/transport-commons" "^4.5.10"
+    "@feathersjs/transport-commons" "^4.5.11"
     "@types/socket.io-client" "^1.4.34"
 
 "@feathersjs/socketio@4.5.10":
@@ -1218,17 +1218,7 @@
     socket.io "^2.3.0"
     uberproto "^2.0.6"
 
-"@feathersjs/transport-commons@^4.5.10", "@feathersjs/transport-commons@^4.5.9":
-  version "4.5.10"
-  resolved "https://registry.yarnpkg.com/@feathersjs/transport-commons/-/transport-commons-4.5.10.tgz#5395ca10de45a104de977a3758a08362ae9c6f2e"
-  dependencies:
-    "@feathersjs/commons" "^4.5.10"
-    "@feathersjs/errors" "^4.5.10"
-    debug "^4.2.0"
-    lodash "^4.17.20"
-    radix-router "^3.0.1"
-
-"@feathersjs/transport-commons@^4.5.11":
+"@feathersjs/transport-commons@^4.5.10", "@feathersjs/transport-commons@^4.5.11", "@feathersjs/transport-commons@^4.5.9":
   version "4.5.11"
   resolved "https://registry.yarnpkg.com/@feathersjs/transport-commons/-/transport-commons-4.5.11.tgz#dfb31ecd1e66eb80cc6fab77b41d62e46b0a844b"
   dependencies:
